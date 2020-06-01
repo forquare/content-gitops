@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: forquare/gitops:hellov1.1
+        image: forquare/gitops:hellov1.2
